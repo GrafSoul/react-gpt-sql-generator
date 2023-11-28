@@ -1,4 +1,4 @@
-SQL Generator App (React, Express.js)
+#SQL Generator App (React, Express.js)
 
 Example of creating a SQL Generator application using React and Express
 
